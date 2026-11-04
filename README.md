@@ -3,4 +3,4 @@ OpenClient Studio is a modern desktop AI development environment that brings AI 
 
 My Official Website https://openclient-studio.lovable.app/
 
-I recommend the release for the best way to install.
+I recommend the releases for the best way to install.
